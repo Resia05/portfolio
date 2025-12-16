@@ -81,7 +81,7 @@ user-session-analysis/
 │   └── Solution.pdf
 │
 ├── sql/
-│   └── 01_initial_naive_solution.sql
+│   └── user_session_analysis.sql
 │
 └── results/
     └── result.csv/
